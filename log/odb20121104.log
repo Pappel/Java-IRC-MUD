@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2012-11-04 17:02:44 #1 store] 
+Database 'C:\Users\kasutaja\Documents\NetBeansProjects\Game2\DB\GameDB.odb' is opened by 7332@saabas2
+
+[2012-11-04 17:02:45 #2 type] 
+Type com.game.world.Room is not enhanced.
+
+[2012-11-04 17:02:45 #3 type] 
+Type com.game.mob.Mob is not enhanced.
+
+[2012-11-04 17:02:45 #4 type] 
+Type com.game.mob.Player is not enhanced.
+
+[2012-11-04 17:02:45 #5 type] 
+Type com.game.mob.DynamicModel is not enhanced.
+
+[2012-11-04 17:02:45 #6 type] 
+Type com.game.mob.BaseModel is not enhanced.
+
+[2012-11-04 17:02:45 #7 type] 
+Type com.game.mob.backbone.Bank is not enhanced.
+
+[2012-11-04 17:02:45 #8 type] 
+Type com.game.world.Island is not enhanced.
+
